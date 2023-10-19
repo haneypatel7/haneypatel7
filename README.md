@@ -1,9 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently pursuing my Master of Computer Application (MCA)<br>      Always ethusiastic to grab new technology.<br>      Self explorer;<br>
+Hello there! I'm Haneypatel, a passionate and enthusiastic MCA (Master of Computer Applications) student on a journey to explore the world of computer science and software development. This is my GitHub space, where I showcase my projects, share my knowledge, and collaborate with the open-source community.
+
+
+![Alt Text](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haneypatel_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haney-patel-54a74189) 
+
+
 
 
 # 💻 Tech Stack:
